@@ -4,7 +4,7 @@ Adding line 3
 
 <<<<<<< HEAD
 A new line on main!
-=======
+                   =======
 Delete - why not??
 A new DF edit
 >>>>>>> dazzling_feature
